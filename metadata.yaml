@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/695
     wikipedia: http://en.wikipedia.org/wiki/Mary_Johnston
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16554#Foes
 gutenberg_issued: '2005-08-20'
 gutenberg_type: Text
 identifiers:
